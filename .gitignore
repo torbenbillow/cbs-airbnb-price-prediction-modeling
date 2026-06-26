@@ -1,0 +1,59 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Virtual environments
+
+venv/
+env/
+.venv/
+ENV/
+
+# Environment variables and secrets
+
+.env
+.env.*
+*.pem
+*.key
+*.token
+
+# Data files
+
+data/
+*.csv
+*.csv.gz
+*.xlsx
+*.json
+*.parquet
+*.pkl
+*.pickle
+
+# Model artifacts
+
+models/
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+
+.vscode/
+.idea/
